@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hutaiwei/Documents/%E5%B0%88%E6%A1%88/mlflow/mlruns/537959963277077106/894a776ed525452d9707fdd21b7d7919/artifacts
+end_time: 1688297897180
+entry_point_name: ''
+experiment_id: '537959963277077106'
+lifecycle_stage: active
+run_id: 894a776ed525452d9707fdd21b7d7919
+run_name: Iris RF Experiment
+run_uuid: 894a776ed525452d9707fdd21b7d7919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688297893296
+status: 3
+tags: []
+user_id: hutaiwei
